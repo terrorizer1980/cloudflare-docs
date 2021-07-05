@@ -7,7 +7,7 @@
   "author": "Ashley Lewis <ashleymichal@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@cloudflare/kv-asset-handler": "^0.0.12",
+    "@cloudflare/kv-asset-handler": "^0.1.2",
     "lilredirector": "^0.5.1",
     "workers-google-analytics": "0.0.3"
   }
