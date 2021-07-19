@@ -10,7 +10,7 @@
     "@material-ui/core": "4.11.0",
     "@mdx-js/mdx": "1.6.6",
     "@mdx-js/react": "1.6.6",
-    "@reach/skip-nav": "0.10.5",
+    "@reach/skip-nav": "0.15.0",
     "animejs": "3.2.0",
     "cloudflare-docs-engine": "git+https://github.com/cloudflare/cloudflare-docs-engine.git",
     "focus-group": "0.3.1",
